@@ -1,5 +1,5 @@
-# Salary_Prediction_With_Non-Linear_Regression_Models
 Salary Prediction With Non-Linear Regression Models
+
 **Business Problem:** Develop a machine learning model to estimate the salaries of baseball players whose salary information and career statistics for 1986 are shared.
 
 **Dataset History**
